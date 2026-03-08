@@ -69,3 +69,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # TP1-REACT
+
+Affichage : (les 3 exercices)
+
+<img width="796" height="1005" alt="TP1 REACT App" src="https://github.com/user-attachments/assets/fcb75a76-cd2b-40d2-be90-0fb29923fcc5" />
+
+App.js: (les 3 exercices)
+
+<img width="736" height="671" alt="app" src="https://github.com/user-attachments/assets/3665f86e-d97b-4f4c-a36d-fa11493fe907" />
+
+Helloworld.js:
+
+<img width="356" height="156" alt="helloworld" src="https://github.com/user-attachments/assets/74475ba4-ece8-4a65-b7ce-5fbcb4919d47" />
+
+greeting.js:
+
+<img width="411" height="148" alt="greeting" src="https://github.com/user-attachments/assets/62f7aa58-176c-495b-a764-19102e9267eb" />
+
+Profil.js:
+
+<img width="1041" height="549" alt="profil" src="https://github.com/user-attachments/assets/182abbef-0744-4746-baa7-11c47b01d77d" />
+
+Ex1: 
+
+Voiture.js:
+
+<img width="562" height="426" alt="voiture" src="https://github.com/user-attachments/assets/ce4c7d49-7b0a-4608-9bc8-b8bb374b5081" />
+
+Ex2:
+
+ListeCourses.js:
+
+<img width="643" height="405" alt="ListeCourses" src="https://github.com/user-attachments/assets/5f4efb3f-05d3-4e6e-af60-6c11d5e75835" />
+
